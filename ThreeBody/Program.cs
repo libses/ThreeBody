@@ -10,6 +10,7 @@ namespace ThreeBody
     {
         static void Main(string[] args)
         {
+            //check
         }
     }
 }
